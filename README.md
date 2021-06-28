@@ -4,7 +4,7 @@
 
 ### Tags
 [![](https://img.shields.io/badge/Arch%20Linux-KDE-33aadd?style=flat-square&logo=arch-linux&logoColor=6cf)]()
-[![](https://img.shields.io/badge/Ubuntu%20Server-18.04-33aadd?style=flat-square&logo=ubuntu&logoColor=6cf)]()
+[![](https://img.shields.io/badge/Ubuntu%20Server-18.04-E95420?style=flat-square&logo=ubuntu&logoColor=E95420)]()
 [![](https://img.shields.io/badge/Windows-11-33aadd?style=flat-square&logo=windows&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Android-Q-3DDC84?style=flat-square&logo=Android&logoColor=3DDC84)]()
 
