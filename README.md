@@ -3,8 +3,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=SimpliFly03&show_icons=true&theme=jolly&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimpliFly03&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tags
-[![](https://img.shields.io/badge/Windows-10-33aadd?style=flat-square&logo=windows&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Arch%20Linux-KDE-33aadd?style=flat-square&logo=arch-linux&logoColor=6cf)]()
+[![](https://img.shields.io/badge/Windows-10-33aadd?style=flat-square&logo=windows&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Android-Q-33aadd?style=flat-square&logo=Android&logoColor=6cf)]()
 
 <!--
