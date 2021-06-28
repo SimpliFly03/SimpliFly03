@@ -8,6 +8,9 @@
 [![](https://img.shields.io/badge/Windows-11-33aadd?style=flat-square&logo=windows&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Android-Q-3DDC84?style=flat-square&logo=Android&logoColor=3DDC84)]()
 
+[![](https://img.shields.io/badge/Qemu-KVM-FF6600?style=flat-square&logo=qemu&logoColor=FF6600)]()
+[![](https://img.shields.io/badge/Visual%20Studio-Code-33aadd?style=flat-square&logo=visual-studio-code&logoColor=6cf)]()
+
 <!--
 **SimpliFly03/SimpliFly03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
