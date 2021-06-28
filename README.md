@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![SimpliFly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimpliFly03&show_icons=true&theme=jolly)
+
 <!--
 **SimpliFly03/SimpliFly03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
