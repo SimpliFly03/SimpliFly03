@@ -2,12 +2,13 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SimpliFly03&show_icons=true&theme=jolly&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimpliFly03&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tags
+### OS
 [![](https://img.shields.io/badge/Arch%20Linux-KDE-33aadd?style=flat-square&logo=arch-linux&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Ubuntu%20Server-18.04-E95420?style=flat-square&logo=ubuntu&logoColor=E95420)]()
 [![](https://img.shields.io/badge/Windows-11-33aadd?style=flat-square&logo=windows&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Android-Q-3DDC84?style=flat-square&logo=Android&logoColor=3DDC84)]()
 
+### Tools
 [![](https://img.shields.io/badge/Qemu-KVM-FF6600?style=flat-square&logo=qemu&logoColor=FF6600)]()
 [![](https://img.shields.io/badge/Visual%20Studio-Code-33aadd?style=flat-square&logo=visual-studio-code&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Linux-Containers-333333?style=flat-square&logo=linuxcontainers&logoColor=333333)]()
