@@ -13,6 +13,8 @@
 [![](https://img.shields.io/badge/Visual%20Studio-Code-33aadd?style=flat-square&logo=visual-studio-code&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Linux-Containers-333333?style=flat-square&logo=linuxcontainers&logoColor=333333)]()
 
+<img width="500" src="https://metrics.lecoq.io/SimpliFly03" alt="Github Metrics">
+
 <!--
 **SimpliFly03/SimpliFly03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
