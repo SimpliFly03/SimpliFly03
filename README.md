@@ -13,9 +13,6 @@
 [![](https://img.shields.io/badge/Visual%20Studio-Code-33aadd?style=flat-square&logo=visual-studio-code&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Linux-Containers-333333?style=flat-square&logo=linuxcontainers&logoColor=333333)]()
 
-![GitHub Snake Light](../../raw/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
-![GitHub Snake dark](../../raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-
 <img width="500" src="https://metrics.lecoq.io/SimpliFly03" alt="Github Metrics">
 
 <!--
